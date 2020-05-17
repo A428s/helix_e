@@ -1,10 +1,9 @@
 # helix_E
 
-![helix_E](imgur.com image replace me!)
-
+helix_E
 A short description of the keyboard/project
 
-Keyboard Maintainer: [%YOUR_NAME%](https://github.com/yourusername)  
+Keyboard Maintainer: A428s
 Hardware Supported: The PCBs, controllers supported  
 Hardware Availability: links to where you can find this hardware
 
@@ -12,4 +11,3 @@ Make example for this keyboard (after setting up your build environment):
 
     make helix_E:default
 
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
