@@ -1,6 +1,6 @@
 # helix_E
 
-helix_E
+helix_E:
 A split keyboard with 31 keys and one encoder in one hand. For the most part, I'm respecting the HELIX keyboard.
 
 Keyboard Maintainer: A428s
